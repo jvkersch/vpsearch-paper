@@ -1,0 +1,2090 @@
+# ggsearch36 -3 -b 4 -m 8C -T 4 mothur-sop-asv_232.fasta ../data/silva-all.fa
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 1 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+1	117062	100.00	252	0	0	1	252	1	252	4.1e-244	79.2
+1	300729	100.00	251	1	1	1	252	1	252	1.2e-241	78.9
+1	125795	99.60	252	1	0	1	252	1	252	2e-240	78.7
+1	122801	99.60	252	1	0	1	252	1	252	2e-240	78.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 2 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+2	227835	100.00	252	0	0	1	252	1	252	2.9e-107	58.5
+2	324549	99.60	252	1	0	1	252	1	252	1.2e-105	58.2
+2	320094	99.60	252	1	0	1	252	1	252	1.2e-105	58.2
+2	311063	99.21	252	2	0	1	252	1	252	5.2e-104	57.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 3 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+3	121768	100.00	252	0	0	1	252	1	252	0	724.8
+3	121741	99.60	252	1	0	1	252	1	252	0	719.5
+3	221633	99.60	252	1	0	1	252	1	252	0	719.5
+3	247279	99.60	252	1	0	1	252	1	252	0	719.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 4 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+4	156630	100.00	252	0	0	1	252	1	252	0	724.8
+4	257943	99.60	252	1	0	1	252	1	252	0	719.5
+4	302206	99.60	252	1	0	1	252	1	252	0	719.5
+4	213556	99.60	252	1	0	1	252	1	252	0	719.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 5 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+5	36989	100.00	253	0	0	1	253	1	253	7.9e-15	33.7
+5	7143	99.60	253	1	0	1	253	1	253	1.4e-14	33.6
+5	10152	99.60	253	1	0	1	253	1	253	1.4e-14	33.6
+5	59995	99.60	253	1	0	1	253	1	253	1.4e-14	33.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 6 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+6	117078	100.00	252	0	0	1	252	1	252	1.5e-126	62.0
+6	133150	99.60	252	1	0	1	252	1	252	9.2e-125	61.6
+6	131524	99.60	252	1	0	1	252	1	252	9.2e-125	61.6
+6	435625	99.60	252	1	0	1	252	1	252	9.2e-125	61.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 7 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+7	117084	100.00	252	0	0	1	252	1	252	0	424.9
+7	225939	99.60	252	1	0	1	252	1	252	0	421.8
+7	237675	99.60	252	1	0	1	252	1	252	0	421.8
+7	148048	99.60	252	1	0	1	252	1	252	0	421.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 8 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+8	163505	99.60	253	1	0	1	253	1	253	0	722.5
+8	302189	98.81	253	3	0	1	253	1	253	0	711.9
+8	160700	98.81	252	3	1	1	253	1	252	0	699.6
+8	304545	99.21	253	2	2	1	253	1	255	0	698.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 9 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+9	302219	99.60	252	1	0	1	252	1	252	3.3e-40	42.9
+9	214725	99.60	252	1	0	1	252	1	252	3.3e-40	42.9
+9	153200	99.21	252	2	0	1	252	1	252	1.3e-39	42.7
+9	210559	99.21	252	2	0	1	252	1	252	1.3e-39	42.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 10 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+10	202619	100.00	252	0	0	1	252	1	252	0	90.0
+10	234400	97.22	252	7	0	1	252	1	252	4.5e-303	86.2
+10	173999	97.22	252	7	0	1	252	1	252	4.5e-303	86.2
+10	122803	96.83	252	8	0	1	252	1	252	2.9e-298	85.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 11 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+11	4896	100.00	253	0	0	1	253	1	253	0	727.7
+11	129582	100.00	252	1	1	1	253	1	253	0	724.2
+11	226110	99.60	253	1	0	1	253	1	253	0	722.5
+11	286339	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 12 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+12	131524	100.00	252	0	0	1	252	1	252	8.5e-119	60.6
+12	182695	99.60	252	1	0	1	252	1	252	4.8e-117	60.3
+12	293262	99.60	252	1	0	1	252	1	252	4.8e-117	60.3
+12	207227	99.60	252	1	0	1	252	1	252	4.8e-117	60.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 13 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+13	16538	100.00	253	0	0	1	253	1	253	0	113.3
+13	153673	99.60	253	1	0	1	253	1	253	0	112.5
+13	327997	99.60	253	1	0	1	253	1	253	0	112.5
+13	361823	99.60	253	1	0	1	253	1	253	0	112.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 14 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+14	148048	100.00	252	0	0	1	252	1	252	2.2e-24	37.6
+14	175398	99.60	252	1	0	1	252	1	252	5.4e-24	37.5
+14	295054	99.60	252	1	0	1	252	1	252	5.4e-24	37.5
+14	156813	99.60	252	1	0	1	252	1	252	5.4e-24	37.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 15 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+15	90966	100.00	253	0	0	1	253	1	253	0	1084.0
+15	226823	99.60	253	1	0	1	253	1	253	0	1076.2
+15	229353	99.60	253	1	0	1	253	1	253	0	1076.2
+15	206222	99.60	253	1	0	1	253	1	253	0	1076.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 16 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+16	98242	100.00	253	0	0	1	253	1	253	0	727.7
+16	360981	99.60	253	1	0	1	253	1	253	0	722.5
+16	357002	99.60	253	1	0	1	253	1	253	0	722.5
+16	368295	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 17 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+17	253417	100.00	252	0	0	1	252	1	252	0	106.0
+17	359934	99.60	252	1	0	1	252	1	252	0	105.3
+17	378622	99.60	252	1	0	1	252	1	252	0	105.3
+17	359944	99.60	252	1	0	1	252	1	252	0	105.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 18 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+18	124227	100.00	252	0	0	1	252	1	252	2.8e-238	78.4
+18	153461	99.60	252	1	0	1	252	1	252	8.1e-235	78.0
+18	221074	99.60	252	1	0	1	252	1	252	8.1e-235	78.0
+18	204738	99.60	252	1	0	1	252	1	252	8.1e-235	78.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 19 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+19	440943	100.00	252	0	0	1	252	1	252	1.1e-120	60.9
+19	150633	94.84	252	13	0	1	252	1	252	1.1e-97	56.6
+19	428300	94.44	252	14	0	1	252	1	252	5.3e-96	56.3
+19	257626	94.44	252	14	0	1	252	1	252	5.3e-96	56.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 20 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+20	288907	100.00	252	0	0	1	252	1	252	2.3e-40	43.0
+20	234989	99.60	252	1	0	1	252	1	252	1e-39	42.8
+20	363213	99.60	252	1	0	1	252	1	252	1e-39	42.8
+20	342110	99.60	252	1	0	1	252	1	252	1e-39	42.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 21 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+21	3238	100.00	253	0	0	1	253	1	253	0	209.7
+21	235690	99.60	253	1	0	1	253	1	253	0	208.4
+21	291760	99.60	253	1	0	1	253	1	253	0	208.4
+21	229054	99.60	253	1	0	1	253	1	253	0	208.4
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 22 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+22	219745	100.00	253	0	0	1	253	1	253	0	171.3
+22	286321	99.60	253	1	0	1	253	1	253	0	170.1
+22	375049	99.60	253	1	0	1	253	1	253	0	170.1
+22	360994	99.60	253	1	0	1	253	1	253	0	170.1
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 23 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+23	142056	100.00	253	0	0	1	253	1	253	4.8e-140	64.3
+23	254009	99.60	253	1	0	1	253	1	253	5.4e-138	63.9
+23	70104	99.60	253	1	0	1	253	1	253	5.4e-138	63.9
+23	407938	98.81	253	3	0	1	253	1	253	6.1e-134	63.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 24 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+24	206640	100.00	253	0	0	1	253	1	253	1.5e-27	38.8
+24	392535	99.60	253	1	0	1	253	1	253	4.1e-27	38.6
+24	215633	99.21	253	2	0	1	253	1	253	1.1e-26	38.5
+24	332434	98.81	253	3	0	1	253	1	253	2.9e-26	38.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 25 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+25	71501	100.00	253	0	0	1	253	1	253	0	727.7
+25	128752	99.60	253	1	0	1	253	1	253	0	722.5
+25	317937	99.21	253	2	0	1	253	1	253	0	717.2
+25	252861	99.21	253	2	0	1	253	1	253	0	717.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 26 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+26	209437	100.00	253	0	0	1	253	1	253	0	727.7
+26	89653	99.60	253	1	0	1	253	1	253	0	722.5
+26	245145	99.60	253	1	0	1	253	1	253	0	722.5
+26	222612	98.42	253	4	0	1	253	1	253	0	706.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 27 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+27	82690	100.00	253	0	0	1	253	1	253	0	210.6
+27	315754	99.60	253	1	0	1	253	1	253	0	209.2
+27	421356	99.60	253	1	0	1	253	1	253	0	209.2
+27	285669	99.60	253	1	0	1	253	1	253	0	209.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 28 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+28	89132	100.00	253	0	0	1	253	1	253	1.8e-20	36.1
+28	244898	99.60	253	1	0	1	253	1	253	3.8e-20	36.0
+28	246938	99.60	253	1	0	1	253	1	253	3.8e-20	36.0
+28	226818	99.60	253	1	0	1	253	1	253	3.8e-20	36.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 29 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+29	127276	100.00	253	0	0	1	253	1	253	0	727.7
+29	260047	99.60	253	1	0	1	253	1	253	0	722.5
+29	206581	99.60	253	1	0	1	253	1	253	0	722.5
+29	229331	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 30 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+30	264396	100.00	253	0	0	1	253	1	253	0	1567.2
+30	213285	99.60	253	1	0	1	253	1	253	0	1555.5
+30	393837	99.60	253	1	0	1	253	1	253	0	1555.5
+30	100564	99.60	253	1	0	1	253	1	253	0	1555.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 31 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+31	206640	99.60	253	1	0	1	253	1	253	1.5e-15	34.0
+31	392535	99.21	253	2	0	1	253	1	253	2.8e-15	33.9
+31	215633	98.81	253	3	0	1	253	1	253	5e-15	33.8
+31	250761	98.81	253	3	0	1	253	1	253	5e-15	33.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 32 - 254 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+32	207705	100.00	254	0	0	1	254	1	254	0	1440.9
+32	159758	99.61	254	1	0	1	254	1	254	0	1430.0
+32	236786	99.61	254	1	0	1	254	1	254	0	1430.0
+32	284118	99.61	254	1	0	1	254	1	254	0	1430.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 33 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+33	207220	100.00	253	0	0	1	253	1	253	4.8e-30	39.7
+33	229082	99.60	253	1	0	1	253	1	253	1.4e-29	39.5
+33	252929	99.60	253	1	0	1	253	1	253	1.4e-29	39.5
+33	262322	99.60	253	1	0	1	253	1	253	1.4e-29	39.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 34 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+34	527	100.00	253	0	0	1	253	1	253	1.9e-93	55.8
+34	50522	99.60	253	1	0	1	253	1	253	5.4e-93	55.7
+34	28233	99.60	253	1	0	1	253	1	253	5.4e-93	55.7
+34	15533	99.60	253	1	0	1	253	1	253	5.4e-93	55.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 35 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+35	92494	100.00	253	0	0	1	253	1	253	0	105.0
+35	433442	99.60	253	1	0	1	253	1	253	0	104.3
+35	445995	99.21	253	2	1	1	253	1	254	0	102.6
+35	70248	96.84	253	8	0	1	253	1	253	0	99.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 36 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+36	72397	100.00	253	0	0	1	253	1	253	2e-131	62.8
+36	290454	99.60	253	1	0	1	253	1	253	1.8e-129	62.5
+36	261242	99.60	253	1	0	1	253	1	253	1.8e-129	62.5
+36	279978	99.60	253	1	0	1	253	1	253	1.8e-129	62.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 37 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+37	162978	100.00	253	0	0	1	253	1	253	2e-195	72.7
+37	227017	99.60	253	1	0	1	253	1	253	1.5e-192	72.3
+37	209453	99.60	253	1	0	1	253	1	253	1.5e-192	72.3
+37	226781	99.60	253	1	0	1	253	1	253	1.5e-192	72.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 38 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+38	163631	100.00	253	0	0	1	253	1	253	0	727.7
+38	232518	99.60	253	1	0	1	253	1	253	0	722.5
+38	159419	99.60	253	1	0	1	253	1	253	0	722.5
+38	153226	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 39 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+39	92244	100.00	253	0	0	1	253	1	253	0	727.7
+39	291887	99.60	253	1	0	1	253	1	253	0	722.5
+39	224740	99.60	253	1	0	1	253	1	253	0	722.5
+39	253227	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 40 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+40	119301	100.00	253	0	0	1	253	1	253	0	727.7
+40	265438	99.60	253	1	0	1	253	1	253	0	722.5
+40	249073	99.60	253	1	0	1	253	1	253	0	722.5
+40	305999	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 41 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+41	198152	100.00	253	0	0	1	253	1	253	0	90.5
+41	220038	99.60	253	1	0	1	253	1	253	0	90.0
+41	275856	99.60	253	1	0	1	253	1	253	0	90.0
+41	237067	99.60	253	1	0	1	253	1	253	0	90.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 42 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+42	175917	100.00	253	0	0	1	253	1	253	0	727.7
+42	221217	99.60	253	1	0	1	253	1	253	0	722.5
+42	149927	99.60	253	1	0	1	253	1	253	0	722.5
+42	235677	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 43 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+43	433445	99.60	253	1	0	1	253	1	253	4.2e-50	45.7
+43	266409	99.21	253	2	0	1	253	1	253	2.2e-49	45.5
+43	371342	98.42	253	4	0	1	253	1	253	6e-48	45.2
+43	238325	98.02	253	5	0	1	253	1	253	3e-47	45.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 44 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+44	6336	100.00	253	0	0	1	253	1	253	0	727.7
+44	20444	100.00	252	1	1	1	253	1	253	0	724.2
+44	249861	99.60	253	1	0	1	253	1	253	0	722.5
+44	435654	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 45 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+45	90965	97.23	253	7	0	1	253	1	253	2.5e-79	52.8
+45	262086	96.84	253	8	0	1	253	1	253	3.8e-78	52.6
+45	260766	96.84	253	8	0	1	253	1	253	3.8e-78	52.6
+45	210934	96.84	253	8	0	1	253	1	253	3.8e-78	52.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 46 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+46	209289	100.00	253	0	0	1	253	1	253	0	727.7
+46	277689	99.60	253	1	0	1	253	1	253	0	722.5
+46	291955	99.60	253	1	0	1	253	1	253	0	722.5
+46	323894	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 47 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+47	52	100.00	253	0	0	1	253	1	253	0	727.7
+47	24544	99.60	253	1	0	1	253	1	253	0	726.0
+47	83292	99.60	253	1	0	1	253	1	253	0	726.0
+47	19029	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 48 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+48	89717	100.00	253	0	0	1	253	1	253	0	727.7
+48	221650	99.60	253	1	0	1	253	1	253	0	722.5
+48	288877	99.60	253	1	0	1	253	1	253	0	722.5
+48	157003	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 49 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+49	135202	100.00	253	0	0	1	253	1	253	0	727.7
+49	324557	99.60	253	1	0	1	253	1	253	0	722.5
+49	187997	99.60	253	1	0	1	253	1	253	0	722.5
+49	234422	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 50 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+50	97265	100.00	253	0	0	1	253	1	253	0	727.7
+50	395014	99.60	253	1	0	1	253	1	253	0	722.5
+50	236086	99.60	253	1	0	1	253	1	253	0	722.5
+50	163099	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 51 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+51	175905	100.00	253	0	0	1	253	1	253	0	727.7
+51	160702	99.60	253	1	0	1	253	1	253	0	722.5
+51	160167	99.60	253	1	0	1	253	1	253	0	722.5
+51	356308	99.21	253	2	0	1	253	1	253	0	717.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 52 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+52	87091	100.00	253	0	0	1	253	1	253	0	727.7
+52	121756	99.60	253	1	0	1	253	1	253	0	722.5
+52	290768	99.60	253	1	0	1	253	1	253	0	722.5
+52	308713	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 53 - 254 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+53	5223	100.00	254	0	0	1	254	1	254	1.2e-199	73.3
+53	109200	99.61	254	1	0	1	254	1	254	1.3e-198	73.2
+53	390690	99.61	254	1	0	1	254	1	254	1.3e-196	72.9
+53	89280	99.61	254	1	0	1	254	1	254	1.3e-196	72.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 54 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+54	156653	100.00	252	0	0	1	252	1	252	1.2e-61	48.7
+54	170118	99.60	252	1	0	1	252	1	252	9.6e-61	48.5
+54	92261	99.60	252	1	0	1	252	1	252	9.6e-61	48.5
+54	355219	99.21	252	2	0	1	252	1	252	7.8e-60	48.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 55 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+55	417411	100.00	253	0	0	1	253	1	253	0	727.7
+55	300203	99.21	253	2	0	1	253	1	253	0	717.2
+55	339929	98.81	253	3	0	1	253	1	253	0	711.9
+55	230111	98.81	253	3	0	1	253	1	253	0	711.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 56 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+56	88121	100.00	253	0	0	1	253	1	253	4e-18	35.1
+56	119520	99.60	253	1	0	1	253	1	253	8.1e-18	35.0
+56	265435	100.00	253	0	1	1	253	1	254	1.4e-17	34.9
+56	222265	98.81	253	3	0	1	253	1	253	3.2e-17	34.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 57 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+57	122798	100.00	253	0	0	1	253	1	253	4e-273	82.7
+57	326490	99.60	253	1	0	1	253	1	253	3.5e-269	82.3
+57	297866	99.60	253	1	0	1	253	1	253	3.5e-269	82.3
+57	243695	99.60	253	1	0	1	253	1	253	3.5e-269	82.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 58 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+58	2872	100.00	253	0	0	1	253	1	253	0	727.7
+58	2967	100.00	252	1	1	1	253	1	253	0	724.2
+58	414454	99.60	253	1	0	1	253	1	253	0	722.5
+58	85147	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 59 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+59	89181	100.00	253	0	0	1	253	1	253	0	97.4
+59	291928	99.60	253	1	0	1	253	1	253	0	96.8
+59	261249	99.60	253	1	0	1	253	1	253	0	96.8
+59	307256	99.60	253	1	0	1	253	1	253	0	96.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 60 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+60	119312	100.00	252	0	0	1	252	1	252	0	724.8
+60	406585	99.60	252	1	0	1	252	1	252	0	719.5
+60	159528	99.60	252	1	0	1	252	1	252	0	719.5
+60	324660	98.81	252	3	0	1	252	1	252	0	709.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 61 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+61	127854	99.60	252	1	0	1	252	1	252	0	629.4
+61	445393	99.21	252	2	0	1	252	1	252	0	624.7
+61	53158	95.24	252	12	0	1	252	1	252	0	577.6
+61	219043	94.44	252	14	0	1	252	1	252	0	568.1
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 62 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+62	1354	100.00	253	0	0	1	253	1	253	6.3e-51	46.0
+62	140977	99.60	253	1	0	1	253	1	253	3.4e-50	45.8
+62	374263	99.60	253	1	0	1	253	1	253	3.4e-50	45.8
+62	222310	99.60	253	1	0	1	253	1	253	3.4e-50	45.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 63 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+63	92192	100.00	253	0	0	1	253	1	253	0	121.2
+63	89363	99.21	253	2	0	1	253	1	253	0	119.6
+63	308138	98.81	253	3	0	1	253	1	253	0	118.9
+63	325475	98.81	253	3	0	1	253	1	253	0	118.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 64 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+64	21306	100.00	253	0	0	1	253	1	253	3.4e-164	68.1
+64	90976	99.60	253	1	0	1	253	1	253	9.6e-162	67.7
+64	261366	99.60	253	1	0	1	253	1	253	9.6e-162	67.7
+64	281326	99.60	253	1	0	1	253	1	253	9.6e-162	67.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 65 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+65	1217	100.00	253	0	0	1	253	1	253	1.3e-187	71.6
+65	280058	99.60	253	1	0	1	253	1	253	9e-185	71.2
+65	206798	99.60	253	1	0	1	253	1	253	9e-185	71.2
+65	152398	99.60	253	1	0	1	253	1	253	9e-185	71.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 66 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+66	160750	100.00	253	0	0	1	253	1	253	0	727.7
+66	358985	99.60	253	1	0	1	253	1	253	0	722.5
+66	276393	99.60	253	1	0	1	253	1	253	0	722.5
+66	279983	98.81	253	3	4	1	253	1	257	0	681.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 67 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+67	4914	100.00	253	0	0	1	253	1	253	1.8e-138	64.0
+67	956	99.60	253	1	0	1	253	1	253	2.1e-136	63.7
+67	75437	99.60	253	1	0	1	253	1	253	2.1e-136	63.7
+67	286410	99.60	253	1	0	1	253	1	253	2.1e-136	63.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 68 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+68	231301	100.00	253	0	0	1	253	1	253	4.4e-57	47.6
+68	211785	99.60	253	1	0	1	253	1	253	3.1e-56	47.4
+68	236284	99.60	253	1	0	1	253	1	253	3.1e-56	47.4
+68	268262	99.60	253	1	0	1	253	1	253	3.1e-56	47.4
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 69 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+69	225916	100.00	253	0	0	1	253	1	253	2.5e-44	44.1
+69	225543	99.60	253	1	0	1	253	1	253	1.1e-43	44.0
+69	290765	99.60	253	1	0	1	253	1	253	1.1e-43	44.0
+69	310496	99.60	253	1	0	1	253	1	253	1.1e-43	44.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 70 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+70	262092	100.00	253	0	0	1	253	1	253	0	727.7
+70	104049	97.63	253	6	0	1	253	1	253	0	696.1
+70	294073	95.65	253	11	0	1	253	1	253	0	669.8
+70	97095	95.65	253	11	0	1	253	1	253	0	669.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 71 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+71	90360	100.00	253	0	0	1	253	1	253	5.9e-103	57.7
+71	207209	99.60	253	1	0	1	253	1	253	2.2e-101	57.3
+71	237103	99.60	253	1	0	1	253	1	253	2.2e-101	57.3
+71	228106	99.60	253	1	0	1	253	1	253	2.2e-101	57.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 72 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+72	172407	100.00	253	0	0	1	253	1	253	0	727.7
+72	277557	99.60	253	1	0	1	253	1	253	0	722.5
+72	226096	99.60	253	1	0	1	253	1	253	0	722.5
+72	370192	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 73 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+73	97045	100.00	253	0	0	1	253	1	253	1.9e-266	81.9
+73	277932	99.60	253	1	0	1	253	1	253	1.6e-262	81.5
+73	295268	100.00	253	0	1	1	253	1	254	1.7e-259	81.1
+73	87659	99.21	253	2	0	1	253	1	253	1.3e-258	81.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 74 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+74	89363	100.00	253	0	0	1	253	1	253	0	727.7
+74	301184	99.60	253	1	0	1	253	1	253	0	722.5
+74	89510	99.60	253	1	0	1	253	1	253	0	722.5
+74	239998	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 75 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+75	155344	100.00	253	0	0	1	253	1	253	0	727.7
+75	294203	99.60	253	1	0	1	253	1	253	0	722.5
+75	34	99.21	253	2	0	1	253	1	253	0	717.2
+75	226858	99.21	253	2	0	1	253	1	253	0	717.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 76 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+76	252700	100.00	253	0	0	1	253	1	253	0	128.0
+76	359961	99.60	253	1	0	1	253	1	253	0	127.2
+76	295321	99.60	253	1	0	1	253	1	253	0	127.2
+76	307344	99.60	253	1	0	1	253	1	253	0	127.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 77 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+77	163633	100.00	253	0	0	1	253	1	253	0	727.7
+77	363928	99.60	253	1	0	1	253	1	253	0	722.5
+77	324921	99.60	253	1	0	1	253	1	253	0	722.5
+77	260754	100.00	252	0	1	1	253	1	252	0	715.4
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 78 - 254 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+78	136752	100.00	254	0	0	1	254	1	254	0	730.7
+78	360983	99.61	254	1	0	1	254	1	254	0	725.4
+78	351079	99.61	254	1	0	1	254	1	254	0	725.4
+78	378058	99.21	254	2	0	1	254	1	254	0	720.1
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 79 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+79	130988	100.00	253	0	0	1	253	1	253	0	94.8
+79	250566	99.60	253	1	0	1	253	1	253	0	94.3
+79	251010	99.60	253	1	0	1	253	1	253	0	94.3
+79	309976	99.60	253	1	0	1	253	1	253	0	94.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 80 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+80	83	100.00	253	0	0	1	253	1	253	1e-248	79.8
+80	294891	99.60	253	1	0	1	253	1	253	5.2e-245	79.3
+80	354173	99.60	253	1	0	1	253	1	253	5.2e-245	79.3
+80	301428	99.60	253	1	0	1	253	1	253	5.2e-245	79.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 81 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+81	137158	100.00	253	0	0	1	253	1	253	3.8e-74	51.7
+81	344135	99.60	253	1	0	1	253	1	253	5.3e-73	51.4
+81	268308	99.60	253	1	0	1	253	1	253	5.3e-73	51.4
+81	268316	99.60	253	1	0	1	253	1	253	5.3e-73	51.4
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 82 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+82	2589	100.00	252	0	0	1	252	1	252	1.8e-153	66.4
+82	395164	100.00	251	1	1	1	252	1	252	5.6e-152	66.2
+82	87757	99.60	252	1	0	1	252	1	252	3.1e-151	66.1
+82	85205	99.60	252	1	0	1	252	1	252	3.1e-151	66.1
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 83 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+83	90001	100.00	253	0	0	1	253	1	253	0	118.8
+83	252717	99.60	253	1	0	1	253	1	253	0	118.0
+83	319193	99.60	253	1	0	1	253	1	253	0	118.0
+83	130763	99.60	253	1	0	1	253	1	253	0	118.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 84 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+84	76553	100.00	253	0	0	1	253	1	253	1.7e-21	36.5
+84	281929	99.60	253	1	0	1	253	1	253	3.8e-21	36.4
+84	305393	99.60	253	1	0	1	253	1	253	3.8e-21	36.4
+84	207223	99.60	253	1	0	1	253	1	253	3.8e-21	36.4
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 85 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+85	13	100.00	253	0	0	1	253	1	253	0	727.7
+85	17467	99.60	253	1	0	1	253	1	253	0	726.0
+85	118971	99.60	253	1	0	1	253	1	253	0	726.0
+85	110518	99.60	253	1	0	1	253	1	253	0	726.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 86 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+86	70233	100.00	253	0	0	1	253	1	253	7.7e-20	35.9
+86	221699	99.60	253	1	0	1	253	1	253	1.6e-19	35.7
+86	288926	99.60	253	1	0	1	253	1	253	1.6e-19	35.7
+86	121584	99.60	253	1	0	1	253	1	253	1.6e-19	35.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 87 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+87	97835	100.00	253	0	0	1	253	1	253	0	727.7
+87	295891	99.60	253	1	0	1	253	1	253	0	722.5
+87	324906	99.60	253	1	0	1	253	1	253	0	722.5
+87	282358	99.21	253	2	0	1	253	1	253	0	717.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 88 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+88	236288	100.00	253	0	0	1	253	1	253	0	727.7
+88	253758	99.60	253	1	0	1	253	1	253	0	722.5
+88	295995	99.60	253	1	0	1	253	1	253	0	722.5
+88	262234	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 89 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+89	186	100.00	253	0	0	1	253	1	253	7.7e-118	60.4
+89	6855	99.60	253	1	0	1	253	1	253	2.9e-117	60.3
+89	75944	99.60	253	1	0	1	253	1	253	2.9e-117	60.3
+89	79580	99.60	253	1	0	1	253	1	253	2.9e-117	60.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 90 - 255 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+90	311645	97.65	255	6	0	1	255	1	255	6.9e-31	40.0
+90	92649	96.86	255	8	0	1	255	1	255	7.2e-30	39.6
+90	257272	95.69	255	11	0	1	255	1	255	2.3e-28	39.1
+90	278977	94.90	255	13	0	1	255	1	255	2.2e-27	38.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 91 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+91	206812	100.00	253	0	0	1	253	1	253	6.3e-31	40.0
+91	224962	99.60	253	1	0	1	253	1	253	1.9e-30	39.8
+91	238614	99.60	253	1	0	1	253	1	253	1.9e-30	39.8
+91	249192	99.60	253	1	0	1	253	1	253	1.9e-30	39.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 92 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+92	88682	100.00	253	0	0	1	253	1	253	6.8e-55	47.0
+92	324758	99.60	253	1	0	1	253	1	253	4.5e-54	46.8
+92	307611	99.60	253	1	0	1	253	1	253	4.5e-54	46.8
+92	237200	99.60	253	1	0	1	253	1	253	4.5e-54	46.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 93 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+93	221063	100.00	253	0	0	1	253	1	253	0	288.5
+93	329171	99.60	253	1	0	1	253	1	253	0	286.5
+93	235465	99.60	253	1	0	1	253	1	253	0	286.5
+93	324799	99.60	253	1	0	1	253	1	253	0	286.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 94 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+94	100564	100.00	253	0	0	1	253	1	253	1.1e-16	34.5
+94	264396	99.60	253	1	0	1	253	1	253	2e-16	34.4
+94	262331	99.60	253	1	0	1	253	1	253	2e-16	34.4
+94	393837	99.21	253	2	0	1	253	1	253	3.8e-16	34.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 95 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+95	433442	100.00	253	0	0	1	253	1	253	1.8e-38	42.4
+95	92494	99.60	253	1	0	1	253	1	253	7e-38	42.2
+95	445995	99.60	253	1	1	1	253	1	254	7.3e-37	41.9
+95	70248	96.44	253	9	0	1	253	1	253	2.2e-33	40.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 96 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+96	377	100.00	252	0	0	1	252	1	252	0	221.5
+96	418465	99.60	252	1	0	1	252	1	252	0	221.1
+96	301938	99.60	252	1	0	1	252	1	252	0	220.1
+96	374668	99.60	252	1	0	1	252	1	252	0	220.1
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 97 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+97	187016	100.00	252	0	0	1	252	1	252	2.2e-31	40.1
+97	315322	99.60	252	1	0	1	252	1	252	6.4e-31	40.0
+97	215630	100.00	252	0	1	1	252	1	253	1.5e-30	39.8
+97	249300	98.81	252	3	0	1	252	1	252	5.2e-30	39.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 98 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+98	263585	99.60	253	1	0	1	253	1	253	0	722.5
+98	210327	99.60	253	1	0	1	253	1	253	0	722.5
+98	139527	99.60	253	1	0	1	253	1	253	0	722.5
+98	92374	99.21	253	2	0	1	253	1	253	0	717.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 99 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+99	2255	100.00	253	0	0	1	253	1	253	0	727.7
+99	8058	100.00	252	1	1	1	253	1	253	0	724.2
+99	137178	99.60	253	1	0	1	253	1	253	0	722.5
+99	113958	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 100 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+100	253417	99.60	252	1	0	1	252	1	252	2.1e-120	60.9
+100	378622	99.21	252	2	0	1	252	1	252	1.4e-118	60.5
+100	359944	99.21	252	2	0	1	252	1	252	1.4e-118	60.5
+100	363217	99.21	252	2	0	1	252	1	252	1.4e-118	60.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 101 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+101	208303	100.00	253	0	0	1	253	1	253	2.7e-242	79.0
+101	236086	99.60	253	1	0	1	253	1	253	1.2e-238	78.5
+101	97265	99.21	253	2	0	1	253	1	253	5.2e-235	78.0
+101	257141	99.21	253	2	0	1	253	1	253	5.2e-235	78.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 102 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+102	216852	100.00	253	0	0	1	253	1	253	9.1e-63	49.0
+102	328801	99.60	253	1	0	1	253	1	253	7e-62	48.8
+102	306079	99.60	253	1	0	1	253	1	253	7e-62	48.8
+102	325524	99.21	253	2	0	1	253	1	253	5.4e-61	48.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 103 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+103	88129	100.00	253	0	0	1	253	1	253	0	727.7
+103	262894	99.60	253	1	0	1	253	1	253	0	722.5
+103	252581	99.60	253	1	0	1	253	1	253	0	722.5
+103	71841	98.81	253	3	0	1	253	1	253	0	711.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 104 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+104	400	100.00	253	0	0	1	253	1	253	1e-27	38.9
+104	99082	99.60	253	1	0	1	253	1	253	1.5e-27	38.8
+104	59424	99.60	253	1	0	1	253	1	253	1.5e-27	38.8
+104	427536	99.60	253	1	0	1	253	1	253	1.5e-27	38.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 105 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+105	269055	100.00	253	0	0	1	253	1	253	1.4e-85	54.2
+105	153389	98.02	253	5	0	1	253	1	253	2.5e-79	52.8
+105	327339	97.23	253	7	0	1	253	1	253	6.9e-77	52.3
+105	327258	97.23	253	7	0	1	253	1	253	6.9e-77	52.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 106 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+106	87855	100.00	253	0	0	1	253	1	253	5.2e-23	37.1
+106	251436	99.60	253	1	0	1	253	1	253	1.2e-22	37.0
+106	397409	99.60	253	1	0	1	253	1	253	1.2e-22	37.0
+106	326443	99.21	253	2	0	1	253	1	253	2.8e-22	36.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 107 - 251 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+107	5393	100.00	251	0	0	1	251	1	251	1.2e-81	53.3
+107	381189	99.60	251	1	0	1	251	1	251	2.1e-80	53.0
+107	61423	99.60	251	1	0	1	251	1	251	2.1e-80	53.0
+107	86267	99.60	251	1	0	1	251	1	251	2.1e-80	53.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 108 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+108	217605	100.00	253	0	0	1	253	1	253	0	121.8
+108	296936	99.60	253	1	0	1	253	1	253	0	121.0
+108	282977	99.60	253	1	0	1	253	1	253	0	121.0
+108	305043	99.60	253	1	0	1	253	1	253	0	121.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 109 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+109	109744	100.00	253	0	0	1	253	1	253	2.6e-94	55.9
+109	13878	99.60	253	1	0	1	253	1	253	5.1e-93	55.7
+109	18982	98.02	253	5	0	1	253	1	253	5.7e-88	54.7
+109	337248	97.63	253	6	0	1	253	1	253	9.9e-87	54.4
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 110 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+110	153389	98.42	253	4	0	1	253	1	253	2e-51	46.1
+110	269055	98.02	253	5	0	1	253	1	253	1.2e-50	45.9
+110	327258	97.63	253	6	0	1	253	1	253	7.3e-50	45.7
+110	128334	97.23	253	7	0	1	253	1	253	4.3e-49	45.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 111 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+111	69771	100.00	253	0	0	1	253	1	253	0	727.7
+111	234413	99.60	253	1	0	1	253	1	253	0	722.5
+111	206812	99.60	253	1	0	1	253	1	253	0	722.5
+111	327325	99.21	253	2	0	1	253	1	253	0	717.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 112 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+112	210261	100.00	253	0	0	1	253	1	253	0	727.7
+112	304953	99.60	253	1	0	1	253	1	253	0	722.5
+112	207228	99.60	253	1	0	1	253	1	253	0	722.5
+112	226851	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 113 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+113	125815	100.00	253	0	0	1	253	1	253	8.3e-165	68.2
+113	185161	99.60	253	1	0	1	253	1	253	2.2e-162	67.8
+113	211798	98.81	253	3	0	1	253	1	253	1.4e-157	67.1
+113	235991	98.81	253	3	0	1	253	1	253	1.4e-157	67.1
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 114 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+114	209165	100.00	253	0	0	1	253	1	253	0	284.6
+114	278904	100.00	253	0	1	1	253	1	254	0	281.1
+114	214740	99.21	253	2	0	1	253	1	253	0	280.7
+114	404571	99.21	253	2	0	1	253	1	253	0	280.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 115 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+115	221171	100.00	253	0	0	1	253	1	253	0	727.7
+115	271613	99.60	253	1	0	1	253	1	253	0	722.5
+115	276374	99.60	253	1	0	1	253	1	253	0	722.5
+115	251533	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 116 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+116	226549	100.00	253	0	0	1	253	1	253	3.5e-18	35.2
+116	260752	99.60	253	1	0	1	253	1	253	7.1e-18	35.0
+116	246662	99.60	253	1	0	1	253	1	253	7.1e-18	35.0
+116	272704	99.60	253	1	0	1	253	1	253	7.1e-18	35.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 117 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+117	4101	100.00	253	0	0	1	253	1	253	1.2e-45	44.5
+117	13939	99.60	253	1	0	1	253	1	253	5.8e-45	44.3
+117	311021	99.60	253	1	0	1	253	1	253	5.8e-45	44.3
+117	285118	99.21	253	2	0	1	253	1	253	2.8e-44	44.1
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 118 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+118	73338	100.00	253	0	0	1	253	1	253	1.9e-44	44.2
+118	268275	99.60	253	1	0	1	253	1	253	8.7e-44	44.0
+118	230123	99.60	253	1	0	1	253	1	253	8.7e-44	44.0
+118	356790	99.60	253	1	0	1	253	1	253	8.7e-44	44.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 119 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+119	101110	100.00	253	0	0	1	253	1	253	0	727.7
+119	210249	99.60	253	1	0	1	253	1	253	0	722.5
+119	101530	99.60	253	1	0	1	253	1	253	0	722.5
+119	150917	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 120 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+120	70712	100.00	253	0	0	1	253	1	253	0	3119.0
+120	153199	99.60	253	1	0	1	253	1	253	0	3095.4
+120	349904	99.60	253	1	0	1	253	1	253	0	3095.4
+120	74580	99.60	253	1	0	1	253	1	253	0	3095.4
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 121 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+121	170119	100.00	253	0	0	1	253	1	253	0	727.7
+121	232902	99.60	253	1	0	1	253	1	253	0	722.5
+121	213297	100.00	253	0	1	1	253	1	254	0	718.4
+121	291953	98.42	253	4	0	1	253	1	253	0	706.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 122 - 254 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+122	90997	100.00	254	0	0	1	254	1	254	1.8e-32	40.5
+122	328717	99.61	254	1	0	1	254	1	254	5.7e-32	40.3
+122	260033	99.61	254	1	0	1	254	1	254	5.7e-32	40.3
+122	411609	99.61	254	1	0	1	254	1	254	5.7e-32	40.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 123 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+123	281826	100.00	253	0	0	1	253	1	253	2.1e-186	71.4
+123	251532	99.60	253	1	0	1	253	1	253	8.7e-184	71.0
+123	396433	99.21	253	2	0	1	253	1	253	3.5e-181	70.7
+123	281113	99.21	253	2	0	1	253	1	253	3.5e-181	70.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 124 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+124	237668	100.00	253	0	0	1	253	1	253	2.3e-122	61.2
+124	354354	99.21	253	2	0	1	253	1	253	7.7e-119	60.6
+124	286371	98.81	253	3	0	1	253	1	253	4.2e-117	60.3
+124	220077	98.02	253	5	0	1	253	1	253	1.2e-113	59.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 125 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+125	90965	100.00	253	0	0	1	253	1	253	0	727.7
+125	262086	99.60	253	1	0	1	253	1	253	0	722.5
+125	210934	99.60	253	1	0	1	253	1	253	0	722.5
+125	298843	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 126 - 254 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+126	222302	100.00	254	0	0	1	254	1	254	0	168.7
+126	236192	99.61	254	1	0	1	254	1	254	0	167.6
+126	287130	99.61	254	1	0	1	254	1	254	0	167.6
+126	311067	99.21	254	2	0	1	254	1	254	0	166.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 127 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+127	221636	100.00	253	0	0	1	253	1	253	0	727.7
+127	268996	99.60	253	1	0	1	253	1	253	0	722.5
+127	168969	99.60	253	1	0	1	253	1	253	0	722.5
+127	312840	98.81	253	3	0	1	253	1	253	0	711.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 128 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+128	209290	100.00	253	0	0	1	253	1	253	0	727.7
+128	397446	99.60	253	1	0	1	253	1	253	0	722.5
+128	379679	99.60	253	1	0	1	253	1	253	0	722.5
+128	291911	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 129 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+129	235768	100.00	253	0	0	1	253	1	253	0	99.2
+129	339328	99.60	253	1	0	1	253	1	253	0	98.6
+129	293112	99.60	253	1	0	1	253	1	253	0	98.6
+129	349800	99.60	253	1	0	1	253	1	253	0	98.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 130 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+130	229129	100.00	253	0	0	1	253	1	253	0	131.9
+130	198781	99.60	253	1	0	1	253	1	253	0	131.1
+130	250445	99.60	253	1	0	1	253	1	253	0	131.1
+130	282041	99.60	253	1	0	1	253	1	253	0	131.1
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 131 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+131	235591	100.00	253	0	0	1	253	1	253	6.1e-22	36.7
+131	217563	99.60	253	1	0	1	253	1	253	1.4e-21	36.6
+131	323097	99.60	253	1	0	1	253	1	253	1.4e-21	36.6
+131	206846	99.60	253	1	0	1	253	1	253	1.4e-21	36.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 132 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+132	212097	100.00	253	0	0	1	253	1	253	1.2e-29	39.5
+132	230143	99.60	253	1	0	1	253	1	253	3.4e-29	39.4
+132	237355	99.60	253	1	0	1	253	1	253	3.4e-29	39.4
+132	236207	99.60	253	1	0	1	253	1	253	3.4e-29	39.4
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 133 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+133	139004	98.81	252	3	0	1	252	1	252	0	113.1
+133	94320	98.81	252	3	0	1	252	1	252	0	113.1
+133	296027	98.41	252	4	0	1	252	1	252	0	112.4
+133	211791	98.41	252	4	0	1	252	1	252	0	112.4
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 134 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+134	161479	100.00	253	0	0	1	253	1	253	0	727.7
+134	292968	99.60	253	1	0	1	253	1	253	0	722.5
+134	423177	99.60	253	1	0	1	253	1	253	0	722.5
+134	279963	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 135 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+135	87091	99.60	253	1	0	1	253	1	253	1.3e-87	54.6
+135	290768	99.21	253	2	0	1	253	1	253	2.9e-86	54.3
+135	368765	99.21	253	2	0	1	253	1	253	2.9e-86	54.3
+135	218056	99.21	253	2	0	1	253	1	253	2.9e-86	54.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 136 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+136	210964	100.00	253	0	0	1	253	1	253	3.1e-50	45.8
+136	253004	99.60	253	1	0	1	253	1	253	1.8e-49	45.6
+136	234975	99.60	253	1	0	1	253	1	253	1.8e-49	45.6
+136	230161	99.60	253	1	0	1	253	1	253	1.8e-49	45.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 137 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+137	89728	100.00	253	0	0	1	253	1	253	0	102.7
+137	264245	99.60	253	1	0	1	253	1	253	0	102.1
+137	309387	99.60	253	1	0	1	253	1	253	0	102.1
+137	264387	100.00	253	0	1	1	253	1	254	0	101.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 138 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+138	218056	100.00	253	0	0	1	253	1	253	0	341.5
+138	449304	99.60	253	1	0	1	253	1	253	0	339.2
+138	207696	98.81	253	3	0	1	253	1	253	0	334.5
+138	277603	98.81	253	3	0	1	253	1	253	0	334.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 139 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+139	77406	100.00	253	0	0	1	253	1	253	0	727.7
+139	378080	100.00	252	1	1	1	253	1	253	0	724.2
+139	306468	98.02	253	5	0	1	253	1	253	0	701.4
+139	93684	98.02	253	5	0	1	253	1	253	0	701.4
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 140 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+140	236167	100.00	253	0	0	1	253	1	253	0	727.7
+140	239340	99.60	253	1	0	1	253	1	253	0	722.5
+140	238288	99.60	253	1	0	1	253	1	253	0	722.5
+140	218791	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 141 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+141	115322	100.00	253	0	0	1	253	1	253	7.4e-26	38.2
+141	393814	99.21	253	2	0	1	253	1	253	4.9e-25	37.9
+141	90537	99.21	253	2	0	1	253	1	253	4.9e-25	37.9
+141	246986	98.81	253	3	0	1	253	1	253	1.2e-24	37.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 142 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+142	220728	100.00	252	0	0	1	252	1	252	3.3e-231	77.5
+142	72284	98.02	252	5	0	1	252	1	252	3.8e-214	75.3
+142	39137	97.62	252	6	0	1	252	1	252	8.3e-211	74.8
+142	50957	97.62	252	6	0	1	252	1	252	8.3e-211	74.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 143 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+143	279861	99.60	252	1	0	1	252	1	252	7.7e-43	43.7
+143	213918	99.21	252	2	0	1	252	1	252	3.4e-42	43.5
+143	305057	93.25	252	17	0	1	252	1	252	5.3e-33	40.7
+143	297786	92.46	252	19	0	1	252	1	252	7.4e-32	40.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 144 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+144	71878	100.00	253	0	0	1	253	1	253	2.6e-31	40.1
+144	287897	99.60	253	1	0	1	253	1	253	7.9e-31	39.9
+144	104050	100.00	253	0	1	1	253	1	254	1.9e-30	39.8
+144	293098	99.21	253	2	0	1	253	1	253	2.4e-30	39.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 145 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+145	206846	100.00	253	0	0	1	253	1	253	1.2e-33	40.9
+145	221645	99.60	253	1	0	1	253	1	253	4.1e-33	40.7
+145	235591	99.60	253	1	0	1	253	1	253	4.1e-33	40.7
+145	217563	99.21	253	2	0	1	253	1	253	1.4e-32	40.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 146 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+146	581	100.00	253	0	0	1	253	1	253	0	191.9
+146	30617	100.00	252	1	1	1	253	1	253	0	191.1
+146	31965	100.00	252	1	1	1	253	1	253	0	191.1
+146	99796	100.00	252	1	1	1	253	1	253	0	191.1
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 147 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+147	5102	100.00	253	0	0	1	253	1	253	0	727.7
+147	25943	99.21	253	2	0	1	253	1	253	0	717.2
+147	5410	99.21	253	2	0	1	253	1	253	0	717.2
+147	16650	98.81	253	3	0	1	253	1	253	0	711.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 148 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+148	222241	100.00	252	0	0	1	252	1	252	0	515.4
+148	280091	98.41	252	4	0	1	252	1	252	0	500.9
+148	283386	98.41	252	4	1	1	252	1	253	0	494.5
+148	299555	97.62	252	6	0	1	252	1	252	0	493.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 149 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+149	55641	100.00	252	0	0	1	252	1	252	0	104.9
+149	236177	99.60	252	1	0	1	252	1	252	0	104.2
+149	363356	99.60	252	1	0	1	252	1	252	0	104.2
+149	251831	99.60	252	1	0	1	252	1	252	0	104.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 150 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+150	172882	100.00	253	0	0	1	253	1	253	7.6e-27	38.6
+150	249977	99.60	253	1	0	1	253	1	253	1.9e-26	38.4
+150	92374	99.60	253	1	0	1	253	1	253	1.9e-26	38.4
+150	315811	100.00	253	0	1	1	253	1	254	4e-26	38.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 151 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+151	210278	100.00	253	0	0	1	253	1	253	0	727.7
+151	235953	99.60	253	1	0	1	253	1	253	0	722.5
+151	250443	99.21	253	2	0	1	253	1	253	0	717.2
+151	261261	99.21	253	2	0	1	253	1	253	0	717.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 152 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+152	90321	100.00	253	0	0	1	253	1	253	3.3e-51	46.0
+152	291028	99.60	253	1	0	1	253	1	253	2e-50	45.8
+152	282379	98.81	253	3	0	1	253	1	253	7.2e-49	45.4
+152	284689	98.81	253	3	0	1	253	1	253	7.2e-49	45.4
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 153 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+153	96699	100.00	253	0	0	1	253	1	253	1.9e-33	40.8
+153	392044	99.21	253	2	0	1	253	1	253	1.9e-32	40.5
+153	374595	98.81	253	3	0	1	253	1	253	6.2e-32	40.3
+153	220950	97.63	253	6	0	1	253	1	253	1.9e-30	39.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 154 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+154	127276	99.60	253	1	0	1	253	1	253	1.3e-12	32.6
+154	130707	99.21	253	2	0	1	253	1	253	2.1e-12	32.5
+154	206581	99.21	253	2	0	1	253	1	253	2.1e-12	32.5
+154	260047	99.21	253	2	0	1	253	1	253	2.1e-12	32.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 155 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+155	207228	100.00	253	0	0	1	253	1	253	0	145.0
+155	344104	99.60	253	1	0	1	253	1	253	0	144.0
+155	326774	99.60	253	1	0	1	253	1	253	0	144.0
+155	433229	99.60	253	1	0	1	253	1	253	0	144.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 156 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+156	89319	100.00	253	0	0	1	253	1	253	0	115.8
+156	363420	99.60	253	1	0	1	253	1	253	0	115.1
+156	238274	100.00	252	0	1	1	253	1	252	0	114.1
+156	175917	98.81	253	3	0	1	253	1	253	0	113.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 157 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+157	326842	100.00	253	0	0	1	253	1	253	5.1e-248	79.7
+157	210964	99.60	253	1	0	1	253	1	253	2.8e-244	79.2
+157	253004	99.21	253	2	0	1	253	1	253	1.4e-240	78.7
+157	245793	99.21	253	2	0	1	253	1	253	1.4e-240	78.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 158 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+158	225866	100.00	253	0	0	1	253	1	253	5.6e-25	37.9
+158	220639	99.60	253	1	0	1	253	1	253	1.4e-24	37.7
+158	222254	99.60	253	1	0	1	253	1	253	1.4e-24	37.7
+158	234424	100.00	253	0	1	1	253	1	254	2.9e-24	37.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 159 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+159	211798	100.00	253	0	0	1	253	1	253	0	114.3
+159	125815	98.81	253	3	0	1	253	1	253	0	112.2
+159	185161	98.42	253	4	0	1	253	1	253	0	111.5
+159	86588	98.02	253	5	0	1	253	1	253	0	110.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 160 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+160	408323	100.00	253	0	0	1	253	1	253	0	180.0
+160	153435	97.62	252	6	1	1	253	1	252	0	170.4
+160	235617	95.65	253	11	0	1	253	1	253	0	167.4
+160	438092	95.65	253	11	0	1	253	1	253	0	167.4
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 161 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+161	265179	99.60	253	1	0	1	253	1	253	0	223.8
+161	275871	99.60	253	1	0	1	253	1	253	0	223.8
+161	294073	99.60	253	1	0	1	253	1	253	0	223.8
+161	120829	99.60	253	1	0	1	253	1	253	0	223.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 162 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+162	72397	99.60	253	1	0	1	253	1	253	3.4e-292	85.0
+162	234389	99.21	253	2	0	1	253	1	253	5.9e-288	84.5
+162	290454	99.21	253	2	0	1	253	1	253	5.9e-288	84.5
+162	309895	99.21	253	2	0	1	253	1	253	5.9e-288	84.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 163 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+163	130183	100.00	253	0	0	1	253	1	253	0	187.6
+163	324185	99.60	253	1	0	1	253	1	253	0	186.4
+163	261209	99.60	253	1	0	1	253	1	253	0	186.4
+163	309604	99.60	253	1	0	1	253	1	253	0	186.4
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 164 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+164	433086	99.60	253	1	0	1	253	1	253	0	1080.5
+164	441689	99.21	253	2	0	1	253	1	253	0	1072.7
+164	44242	94.86	253	13	0	1	253	1	253	0	986.3
+164	262943	94.47	253	14	0	1	253	1	253	0	978.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 165 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+165	234380	100.00	253	0	0	1	253	1	253	1.6e-122	61.3
+165	262167	99.60	253	1	0	1	253	1	253	1.1e-120	60.9
+165	257498	99.60	253	1	0	1	253	1	253	1.1e-120	60.9
+165	261236	99.60	253	1	0	1	253	1	253	1.1e-120	60.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 166 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+166	417409	100.00	253	0	0	1	253	1	253	0	160.0
+166	89381	99.60	253	1	0	1	253	1	253	0	159.0
+166	160623	99.21	253	2	0	1	253	1	253	0	157.9
+166	74775	99.21	253	2	0	1	253	1	253	0	157.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 167 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+167	131493	100.00	253	0	0	1	253	1	253	0	727.7
+167	371339	99.60	253	1	0	1	253	1	253	0	722.5
+167	160160	99.21	253	2	0	1	253	1	253	0	717.2
+167	83645	99.21	253	2	0	1	253	1	253	0	717.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 168 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+168	438081	100.00	253	0	0	1	253	1	253	0	727.7
+168	231765	99.21	253	2	0	1	253	1	253	0	717.2
+168	228040	98.81	253	3	0	1	253	1	253	0	711.9
+168	406275	98.81	253	3	0	1	253	1	253	0	711.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 169 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+169	448683	99.60	253	1	0	1	253	1	253	0	123.2
+169	305061	99.21	253	2	0	1	253	1	253	0	122.4
+169	238785	99.21	253	2	0	1	253	1	253	0	122.4
+169	42428	98.81	253	3	0	1	253	1	253	0	121.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 170 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+170	70016	100.00	253	0	0	1	253	1	253	0	727.7
+170	218851	99.60	253	1	0	1	253	1	253	0	722.5
+170	299175	100.00	253	0	1	1	253	1	254	0	718.4
+170	115320	98.42	253	4	0	1	253	1	253	0	706.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 171 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+171	87486	100.00	253	0	0	1	253	1	253	2.7e-14	33.4
+171	220641	99.60	253	1	0	1	253	1	253	4.7e-14	33.3
+171	139949	99.60	253	1	0	1	253	1	253	4.7e-14	33.3
+171	92353	99.60	253	1	1	1	253	1	254	1.3e-13	33.1
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 172 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+172	245790	100.00	253	0	0	1	253	1	253	0	161.1
+172	198580	98.81	253	3	0	1	253	1	253	0	157.9
+172	324062	98.81	253	3	0	1	253	1	253	0	157.9
+172	317444	98.42	253	4	0	1	253	1	253	0	156.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 173 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+173	100562	100.00	253	0	0	1	253	1	253	0	163.0
+173	265197	99.21	253	2	0	1	253	1	253	0	160.8
+173	270908	98.81	253	3	0	1	253	1	253	0	159.8
+173	246970	100.00	253	0	2	1	253	1	255	0	159.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 174 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+174	121967	100.00	253	0	0	1	253	1	253	0	727.7
+174	281269	99.60	253	1	0	1	253	1	253	0	722.5
+174	292771	99.60	253	1	0	1	253	1	253	0	722.5
+174	220743	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 175 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+175	89252	99.21	253	2	0	1	253	1	253	0	717.2
+175	174525	99.60	252	1	1	1	253	1	252	0	710.2
+175	228442	99.60	253	1	3	1	253	1	256	0	701.4
+175	338505	96.44	253	9	0	1	253	1	253	0	680.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 176 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+176	240539	100.00	253	0	0	1	253	1	253	1.8e-41	43.3
+176	260038	99.60	253	1	0	1	253	1	253	8.1e-41	43.1
+176	61174	93.28	253	17	0	1	253	1	253	4.1e-31	40.0
+176	296981	93.28	253	17	0	1	253	1	253	4.1e-31	40.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 177 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+177	224697	100.00	253	0	0	1	253	1	253	0	727.7
+177	382435	99.60	253	1	0	1	253	1	253	0	722.5
+177	292700	99.60	253	1	0	1	253	1	253	0	722.5
+177	245441	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 178 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+178	120172	98.42	253	4	0	1	253	1	253	7.2e-47	44.9
+178	143592	96.44	253	9	0	1	253	1	253	2.1e-43	43.9
+178	330750	96.05	253	10	0	1	253	1	253	1e-42	43.7
+178	84110	96.05	253	10	0	1	253	1	253	1e-42	43.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 179 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+179	172712	100.00	253	0	0	1	253	1	253	1.2e-28	39.2
+179	157990	99.60	253	1	0	1	253	1	253	3.5e-28	39.0
+179	406265	99.60	253	1	0	1	253	1	253	3.5e-28	39.0
+179	393814	99.21	253	2	0	1	253	1	253	9.9e-28	38.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 180 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+180	180158	100.00	252	0	0	1	252	1	252	0	724.8
+180	283841	99.60	252	1	0	1	252	1	252	0	719.5
+180	427709	99.60	252	1	0	1	252	1	252	0	719.5
+180	317170	99.21	252	2	0	1	252	1	252	0	714.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 181 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+181	207216	100.00	253	0	0	1	253	1	253	1.3e-17	34.9
+181	311078	99.60	253	1	0	1	253	1	253	2.5e-17	34.8
+181	291930	99.60	253	1	0	1	253	1	253	2.5e-17	34.8
+181	91899	99.60	253	1	0	1	253	1	253	2.5e-17	34.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 182 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+182	230075	100.00	253	0	0	1	253	1	253	0	727.7
+182	227913	99.60	253	1	0	1	253	1	253	0	722.5
+182	326749	99.60	253	1	0	1	253	1	253	0	722.5
+182	303608	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 183 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+183	226121	100.00	252	0	1	1	252	1	253	2.2e-18	35.3
+183	268929	98.81	252	3	0	1	252	1	252	5.2e-18	35.1
+183	315770	97.62	252	6	0	1	252	1	252	4.1e-17	34.7
+183	262411	95.24	252	12	0	1	252	1	252	2.3e-15	33.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 184 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+184	231792	100.00	253	0	0	1	253	1	253	1.1e-209	74.7
+184	225882	99.60	253	1	0	1	253	1	253	8.1e-207	74.3
+184	232183	99.60	253	1	0	1	253	1	253	8.1e-207	74.3
+184	247122	99.60	253	1	0	1	253	1	253	8.1e-207	74.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 185 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+185	76749	100.00	253	0	0	1	253	1	253	0	727.7
+185	359974	99.60	253	1	0	1	253	1	253	0	722.5
+185	342100	99.60	253	1	0	1	253	1	253	0	722.5
+185	393197	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 186 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+186	430207	100.00	253	0	0	1	253	1	253	2e-103	57.7
+186	217605	99.60	253	1	0	1	253	1	253	7.1e-102	57.4
+186	240258	99.21	253	2	0	1	253	1	253	2.4e-100	57.1
+186	300269	99.21	253	2	0	1	253	1	253	2.4e-100	57.1
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 187 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+187	248888	100.00	253	0	0	1	253	1	253	4.1e-106	58.3
+187	324658	99.60	253	1	0	1	253	1	253	1.7e-104	57.9
+187	153198	100.00	252	0	1	1	253	1	252	2.5e-102	57.5
+187	229860	96.05	253	10	0	1	253	1	253	2.2e-90	55.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 188 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+188	40121	100.00	252	0	0	1	252	1	252	3.8e-38	42.3
+188	231360	99.60	252	1	0	1	252	1	252	1.5e-37	42.1
+188	301421	99.60	252	1	0	1	252	1	252	1.5e-37	42.1
+188	288848	99.60	252	1	0	1	252	1	252	1.5e-37	42.1
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 189 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+189	29233	100.00	253	0	0	1	253	1	253	1.2e-289	84.7
+189	240673	99.60	253	1	0	1	253	1	253	1.2e-285	84.2
+189	357604	99.60	253	1	0	1	253	1	253	1.2e-285	84.2
+189	131504	99.60	253	1	0	1	253	1	253	1.2e-285	84.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 190 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+190	136291	100.00	253	0	0	1	253	1	253	2.7e-16	34.4
+190	171315	99.21	253	2	0	1	253	1	253	9e-16	34.1
+190	88555	98.42	253	4	0	1	253	1	253	3e-15	33.9
+190	218379	98.02	253	5	0	1	253	1	253	5.4e-15	33.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 191 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+191	20812	100.00	253	0	0	1	253	1	253	0	727.7
+191	277587	99.60	253	1	0	1	253	1	253	0	722.5
+191	272397	99.60	253	1	0	1	253	1	253	0	722.5
+191	325508	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 192 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+192	89275	100.00	253	0	0	1	253	1	253	0	133.9
+192	246925	99.60	253	1	0	1	253	1	253	0	133.1
+192	375935	99.60	253	1	0	1	253	1	253	0	133.1
+192	339316	99.60	253	1	1	1	253	1	254	0	131.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 193 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+193	433229	100.00	253	0	0	1	253	1	253	2.7e-111	59.2
+193	210261	99.60	253	1	0	1	253	1	253	1.2e-109	58.9
+193	207228	99.60	253	1	0	1	253	1	253	1.2e-109	58.9
+193	304953	99.21	253	2	0	1	253	1	253	5.1e-108	58.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 194 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+194	258	100.00	252	0	0	1	252	1	252	0	724.8
+194	446488	99.60	252	1	0	1	252	1	252	0	719.5
+194	447597	99.60	252	1	0	1	252	1	252	0	719.5
+194	140428	99.60	252	1	0	1	252	1	252	0	719.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 195 - 255 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+195	311645	97.25	255	7	0	1	255	1	255	1.3e-22	37.0
+195	92649	96.47	255	9	0	1	255	1	255	7.1e-22	36.7
+195	257272	95.29	255	12	0	1	255	1	255	8.9e-21	36.3
+195	278977	94.51	255	14	0	1	255	1	255	4.7e-20	36.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 196 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+196	121798	100.00	252	0	0	1	252	1	252	0	263.3
+196	292860	99.21	252	2	0	1	252	1	252	0	259.6
+196	150526	98.81	252	3	0	1	252	1	252	0	257.8
+196	93523	98.02	252	5	0	1	252	1	252	0	254.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 197 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+197	75265	100.00	253	0	0	1	253	1	253	0	727.7
+197	314634	99.60	253	1	0	1	253	1	253	0	722.5
+197	304215	99.60	253	1	0	1	253	1	253	0	722.5
+197	345705	99.60	253	1	0	1	253	1	253	0	722.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 198 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+198	89252	99.60	253	1	0	1	253	1	253	2.1e-19	35.7
+198	228442	100.00	253	0	3	1	253	1	256	1.9e-18	35.3
+198	174525	99.21	252	2	1	1	253	1	252	2.5e-18	35.2
+198	286621	96.44	253	9	0	1	253	1	253	6.9e-17	34.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 199 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+199	424709	100.00	253	0	0	1	253	1	253	0	727.7
+199	293555	97.63	253	6	0	1	253	1	253	0	696.1
+199	447327	96.84	253	8	0	1	253	1	253	0	685.6
+199	269944	96.84	253	8	0	1	253	1	253	0	685.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 200 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+200	220077	100.00	253	0	0	1	253	1	253	0	116.7
+200	319228	99.60	253	1	0	1	253	1	253	0	116.0
+200	302238	99.60	253	1	0	1	253	1	253	0	116.0
+200	210245	98.42	253	4	0	1	253	1	253	0	113.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 201 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+201	240543	100.00	253	0	0	1	253	1	253	1.8e-316	87.7
+201	210241	99.21	253	2	0	1	253	1	253	3.2e-307	86.7
+201	94851	99.21	253	2	0	1	253	1	253	3.2e-307	86.7
+201	229093	99.21	253	2	0	1	253	1	253	3.2e-307	86.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 202 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+202	269669	100.00	252	0	0	1	252	1	252	7.4e-178	70.2
+202	310462	99.60	252	1	0	1	252	1	252	2.9e-175	69.8
+202	215712	100.00	252	0	1	1	252	1	253	3e-173	69.5
+202	411656	94.44	252	14	0	1	252	1	252	3.3e-143	64.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 203 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+203	87673	100.00	253	0	0	1	253	1	253	0	727.7
+203	88871	99.60	253	1	0	1	253	1	253	0	722.5
+203	87300	99.21	253	2	0	1	253	1	253	0	717.2
+203	89027	98.81	253	3	0	1	253	1	253	0	711.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 204 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+204	408323	94.86	253	13	0	1	253	1	253	0	659.3
+204	251707	97.63	253	6	4	1	253	1	257	0	658.7
+204	28701	94.47	253	14	0	1	253	1	253	0	654.0
+204	120013	94.47	253	14	0	1	253	1	253	0	654.0
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 205 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+205	3986	99.60	253	1	0	1	253	1	253	0	196.2
+205	2317	99.21	253	2	0	1	253	1	253	0	194.9
+205	201824	99.21	253	2	0	1	253	1	253	0	194.9
+205	3553	99.21	253	2	0	1	253	1	253	0	194.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 206 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+206	79026	100.00	253	0	0	1	253	1	253	0	147.4
+206	80624	99.60	253	1	0	1	253	1	253	0	146.4
+206	438295	99.60	253	1	0	1	253	1	253	0	146.4
+206	333570	100.00	253	0	2	1	253	1	255	0	143.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 207 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+207	89472	94.84	252	13	0	1	252	1	252	0	656.3
+207	283849	94.44	252	14	0	1	252	1	252	0	651.1
+207	232458	91.67	252	21	0	1	252	1	252	0	614.2
+207	80018	91.67	252	21	0	1	252	1	252	0	614.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 208 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+208	217563	100.00	253	0	0	1	253	1	253	3.9e-13	32.9
+208	235591	99.60	253	1	0	1	253	1	253	6.5e-13	32.8
+208	288996	99.60	253	1	0	1	253	1	253	6.5e-13	32.8
+208	323097	99.21	253	2	0	1	253	1	253	1.1e-12	32.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 209 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+209	153438	100.00	253	0	0	1	253	1	253	1.6e-24	37.7
+209	312472	99.60	253	1	0	1	253	1	253	3.9e-24	37.6
+209	265499	99.21	253	2	0	1	253	1	253	9e-24	37.4
+209	326283	98.81	253	3	0	1	253	1	253	2.1e-23	37.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 210 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+210	203530	100.00	253	0	0	1	253	1	253	0	94.2
+210	90015	99.60	253	1	0	1	253	1	253	0	93.7
+210	236800	99.21	253	2	0	1	253	1	253	0	93.1
+210	435870	99.21	253	2	0	1	253	1	253	0	93.1
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 211 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+211	120829	98.81	253	3	0	1	253	1	253	1.7e-18	35.3
+211	275871	98.81	253	3	0	1	253	1	253	1.7e-18	35.3
+211	294073	98.81	253	3	0	1	253	1	253	1.7e-18	35.3
+211	265179	98.81	253	3	0	1	253	1	253	1.7e-18	35.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 212 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+212	292947	100.00	252	0	0	1	252	1	252	0	190.4
+212	380927	99.60	252	1	0	1	252	1	252	0	189.1
+212	256922	98.02	252	5	0	1	252	1	252	0	183.7
+212	249497	98.02	252	5	0	1	252	1	252	0	183.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 213 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+213	161027	100.00	253	0	0	1	253	1	253	4.3e-10	31.3
+213	252639	99.21	253	2	0	1	253	1	253	1e-09	31.1
+213	368807	99.21	253	2	0	1	253	1	253	1e-09	31.1
+213	209289	97.63	253	6	0	1	253	1	253	5.5e-09	30.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 214 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+214	88931	100.00	253	0	0	1	253	1	253	0	727.7
+214	209714	98.81	253	3	0	1	253	1	253	0	711.9
+214	262957	98.42	253	4	0	1	253	1	253	0	706.7
+214	209320	98.42	253	4	0	1	253	1	253	0	706.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 215 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+215	72734	100.00	253	0	0	1	253	1	253	0	727.7
+215	445718	99.21	253	2	0	1	253	1	253	0	717.2
+215	247057	99.21	253	2	0	1	253	1	253	0	717.2
+215	260909	99.21	253	2	0	1	253	1	253	0	717.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 216 - 254 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+216	90997	99.61	254	1	0	1	254	1	254	0	162.6
+216	411609	99.21	254	2	0	1	254	1	254	0	161.6
+216	328717	99.21	254	2	0	1	254	1	254	0	161.6
+216	260033	99.21	254	2	0	1	254	1	254	0	161.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 217 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+217	7959	100.00	252	0	0	1	252	1	252	0	724.8
+217	176971	100.00	251	1	1	1	252	1	252	0	721.3
+217	320726	99.60	252	1	0	1	252	1	252	0	719.5
+217	450600	99.60	252	1	0	1	252	1	252	0	719.5
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 218 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+218	44562	98.41	252	4	0	1	252	1	252	0	703.7
+218	300412	98.02	252	5	0	1	252	1	252	0	698.5
+218	216808	97.62	252	6	0	1	252	1	252	0	693.2
+218	282722	97.62	252	6	0	1	252	1	252	0	693.2
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 219 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+219	44562	100.00	252	0	0	1	252	1	252	0	724.8
+219	300412	99.60	252	1	0	1	252	1	252	0	719.5
+219	93831	99.21	252	2	0	1	252	1	252	0	714.3
+219	216808	99.21	252	2	0	1	252	1	252	0	714.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 220 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+220	252241	100.00	253	0	0	1	253	1	253	2.5e-41	43.3
+220	248851	99.60	253	1	0	1	253	1	253	1.1e-40	43.1
+220	90372	100.00	253	0	1	1	253	1	254	3.3e-40	42.9
+220	427710	99.21	253	2	0	1	253	1	253	4.5e-40	42.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 221 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+221	193990	100.00	253	0	0	1	253	1	253	0	95.9
+221	304747	99.60	253	1	0	1	253	1	253	0	95.3
+221	311624	99.60	253	1	0	1	253	1	253	0	95.3
+221	319772	99.60	253	1	0	1	253	1	253	0	95.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 222 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+222	1853	100.00	253	0	0	1	253	1	253	1.9e-32	40.5
+222	2002	99.60	253	1	0	1	253	1	253	6e-32	40.3
+222	2481	99.60	253	1	0	1	253	1	253	6e-32	40.3
+222	345039	99.60	253	1	0	1	253	1	253	6e-32	40.3
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 223 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+223	212128	99.60	253	1	0	1	253	1	253	2.8e-15	33.9
+223	248983	99.21	253	2	0	1	253	1	253	5e-15	33.8
+223	312440	99.21	253	2	0	1	253	1	253	5e-15	33.8
+223	241352	99.21	253	2	0	1	253	1	253	5e-15	33.8
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 224 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+224	212100	100.00	253	0	0	1	253	1	253	0	727.7
+224	238433	99.60	253	1	0	1	253	1	253	0	722.5
+224	306722	97.23	253	7	0	1	253	1	253	0	690.9
+224	371306	96.84	253	8	0	1	253	1	253	0	685.6
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 225 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+225	120013	95.26	253	12	0	1	253	1	253	0	664.5
+225	380050	94.47	253	14	0	1	253	1	253	0	654.0
+225	345251	93.68	253	16	1	1	253	1	254	0	634.1
+225	28701	92.49	253	19	0	1	253	1	253	0	627.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 226 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+226	391476	100.00	253	0	0	1	253	1	253	0	727.7
+226	121693	98.42	253	4	0	1	253	1	253	0	706.7
+226	447345	98.41	252	5	1	1	253	1	253	0	703.2
+226	444265	98.02	253	5	0	1	253	1	253	0	701.4
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 227 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+227	72284	99.60	252	1	0	1	252	1	252	0	719.5
+227	220728	98.41	252	4	0	1	252	1	252	0	703.7
+227	196915	98.41	252	4	0	1	252	1	252	0	703.7
+227	50957	98.41	252	4	0	1	252	1	252	0	703.7
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 228 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+228	393834	98.42	253	4	0	1	253	1	253	0	706.7
+228	249987	98.02	253	5	0	1	253	1	253	0	701.4
+228	429124	96.44	253	9	0	1	253	1	253	0	680.3
+228	125815	96.05	253	10	0	1	253	1	253	0	675.1
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 229 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+229	241085	99.21	253	2	0	1	253	1	253	0	717.2
+229	123698	98.81	253	3	0	1	253	1	253	0	711.9
+229	299972	98.81	253	3	0	1	253	1	253	0	711.9
+229	209928	98.81	253	3	0	1	253	1	253	0	711.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 230 - 253 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+230	125815	98.81	253	3	0	1	253	1	253	0	142.6
+230	185161	98.42	253	4	0	1	253	1	253	0	141.7
+230	211798	97.63	253	6	0	1	253	1	253	0	139.9
+230	235991	97.63	253	6	0	1	253	1	253	0	139.9
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 231 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+231	348910	98.81	252	3	0	1	252	1	252	0	709.0
+231	214583	96.43	252	9	0	1	252	1	252	0	677.4
+231	75259	96.43	252	9	0	1	252	1	252	0	677.4
+231	45155	96.03	252	10	0	1	252	1	252	0	672.1
+# GGSEARCH 36.3.8g Oct, 2018
+# Query: 232 - 252 nt
+# Database: ../data/silva-all.fa
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+232	121586	97.62	252	6	0	1	252	1	252	2.9e-13	32.9
+232	125251	97.22	252	7	0	1	252	1	252	5.1e-13	32.8
+232	72717	97.22	252	7	0	1	252	1	252	5.1e-13	32.8
+232	222111	96.03	252	10	0	1	252	1	252	2.8e-12	32.5
+# GGSEARCH processed 232 queries
